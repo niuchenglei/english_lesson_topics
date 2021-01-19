@@ -1,7 +1,8 @@
 ## finished:
 - [2021/01/19] difference of education between china and UK
 
-
+## on the way
+- [2021/01/22] efficiency tools in your field
 
 
 ## topic list:
@@ -13,3 +14,5 @@
 - one day of a machine learning engineer
 - how reinforcement learning play games
 - PUA culture in china company
+- mathematics about blockchain
+- how to fly a FA-18C hornet plane (game)
