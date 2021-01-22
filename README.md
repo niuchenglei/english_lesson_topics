@@ -1,9 +1,10 @@
+# Have fun
+
 ## finished:
 - [2021/01/19] difference of education between china and UK
 
 ## on the way
-- [2021/01/22] efficiency tools in your field
-
+- [2021/01/22] efficiency tools in your field, [reference](http://www.baidu.com)
 
 ## topic list:
 - experience on learn guita in 10 days
@@ -16,3 +17,12 @@
 - PUA culture in china company
 - mathematics about blockchain
 - how to fly a FA-18C hornet plane (game)
+
+```
+import numpy as np
+
+println("hello world")
+```
+
+$ E = mc^2 $
+$ \boxed{E=mc^2} $
