@@ -24,5 +24,3 @@ import numpy as np
 println("hello world")
 ```
 
-$ E = mc^2 $
-$ \boxed{E=mc^2} $
