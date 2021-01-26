@@ -3,9 +3,10 @@
 ## finished:
 - [2021/01/19] difference of education between china and UK
 - [2021/01/22] efficiency tools in your field [reference](http://www.baidu.com)
+- [2021/01/26] one day of a programer/machine learning engineer
 
 ## on the way
-- [2021/01/26] one day of a programer/machine learning engineer
+- [2021/01/29] what will happend to the next future (try to predict)
 
 ## topic list:
 - experience on learn guita in 10 days
