@@ -17,6 +17,12 @@
 - mathematics about blockchain
 - how to fly a FA-18C hornet plane (game)
 
+- Sharing some interesting expressions in English (idiom, slang, different and native way of expressing sth., etc.)
+- Economics related: are we really reational decision makers? (behavioral economics)
+- Pricing models (not able to talk about it now)
+- Introducing one of my latest course project: systematic review on the effectiveness of tele-monitoring
+- Social sceience related: How are words influencing our decision? (framing effects)
+- Language learning: How I obtained the British English accent?
 
 ```
 import numpy as np
