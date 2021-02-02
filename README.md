@@ -5,9 +5,10 @@
 - [2021/01/22] Efficiency tools in your field [reference](http://www.baidu.com) (kw: github, markdown, latex)
 - [2021/01/26] One day of a programer/machine learning engineer (keyword: embedding)
 - [2021/01/29] What will happend to the next future (try to predict)
+- [2021/02/02] PUA phenomenon in china company
 
 ## on the way
-- [2021/02/02] PUA phenomenon in china company
+- [2021/02/05] Introducing one of my latest course project: systematic review on the effectiveness of tele-monitoring
 
 ## topic list:
 - Experience on learn guita in 10 days
