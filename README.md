@@ -7,6 +7,9 @@
 - [2021/01/26] One day of a programer/machine learning engineer (keyword: embedding)
 - [2021/01/29] What will happend to the next future (try to predict)
 - [2021/02/02] PUA phenomenon in china company
+  ``` 
+  a pie in the sky, my way or highway, made the scapegoat, belittle, arrange, price discrimination
+  ```
 
 ## on the way
 - [2021/02/05] Introducing one of my latest course project: systematic review on the effectiveness of tele-monitoring
