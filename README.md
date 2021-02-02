@@ -1,6 +1,7 @@
 # Have fun
 
 ## finished:
+- [2021/01/14] Recommend movies
 - [2021/01/19] Difference of education between china and UK
 - [2021/01/22] Efficiency tools in your field [reference](http://www.baidu.com) (kw: github, markdown, latex)
 - [2021/01/26] One day of a programer/machine learning engineer (keyword: embedding)
