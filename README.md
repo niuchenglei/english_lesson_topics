@@ -10,19 +10,23 @@
   ``` 
   a pie in the sky, my way or highway, made the scapegoat, belittle, arrange, price discrimination
   ```
+- [2021/02/05] Introducing one of my latest course project: systematic review on the effectiveness of tele-monitoring
+  ``` 
+  
+  ```
 
 ## on the way
-- [2021/02/05] Introducing one of my latest course project: systematic review on the effectiveness of tele-monitoring
+- [2021/02/09] Mathematics about blockchain
 
 ## topic list:
 - Experience on learn guita in 10 days
 - Talk books: the story of romans, three body problem, Do you think God will roll the dice
 - Favorite sport, marathon(42km)
 - How reinforcement learning play games
-- Mathematics about blockchain
 - How to fly a FA-18C hornet plane (game)
 - How quantum computer works
 - How machine computer works
+- Encryped currency(bitcoin, ethercoin, libra)
 
 - Sharing some interesting expressions in English (idiom, slang, different and native way of expressing sth., etc.)
 - Economics related: are we really reational decision makers? (behavioral economics)
