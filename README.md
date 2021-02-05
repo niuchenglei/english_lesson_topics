@@ -26,7 +26,7 @@
 - How to fly a FA-18C hornet plane (game)
 - How quantum computer works
 - How machine computer works
-- Encryped currency(bitcoin, ethercoin, libra)
+- Encrypted currency (bitcoin, ethercoin, libra)
 
 - Sharing some interesting expressions in English (idiom, slang, different and native way of expressing sth., etc.)
 - Economics related: are we really reational decision makers? (behavioral economics)
