@@ -12,7 +12,7 @@
   ```
 - [2021/02/05] Introducing one of my latest course project: systematic review on the effectiveness of tele-monitoring
   ``` 
-  
+  Glucose, disease, ton of them, patient, patent, bribery
   ```
 
 ## on the way
