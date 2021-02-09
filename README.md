@@ -14,9 +14,10 @@
   ``` 
   Glucose, disease, ton of them, patient, patent, bribery
   ```
+- [2021/02/09] Mathematics about blockchain
 
 ## on the way
-- [2021/02/09] Mathematics about blockchain
+- [2021/02/16] Sharing some interesting expressions in English (idiom, slang, different and native way of expressing sth., etc.)
 
 ## topic list:
 - Experience on learn guita in 10 days
