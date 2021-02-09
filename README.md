@@ -14,7 +14,7 @@
   ``` 
   Glucose, disease, ton of them, patient, patent, bribery
   ```
-- [2021/02/09] Mathematics about blockchain
+- [2021/02/09] Mathematics about blockchain ([presentation](https://docs.google.com/presentation/d/1fagu-n-h_4Xyeq9Yc_vMScF602HaPahcW7xpH3EYF7Q/edit#slide=id.gba35549b36_0_31))
 
 ## on the way
 - [2021/02/16] Sharing some interesting expressions in English (idiom, slang, different and native way of expressing sth., etc.)
