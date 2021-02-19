@@ -15,9 +15,10 @@
   Glucose, disease, ton of them, patient, patent, bribery
   ```
 - [2021/02/09] Mathematics about blockchain ([presentation](https://docs.google.com/presentation/d/1fagu-n-h_4Xyeq9Yc_vMScF602HaPahcW7xpH3EYF7Q/edit#slide=id.gba35549b36_0_31))
+- [2021/02/16] Sharing some interesting expressions in English (idiom, slang, different and native way of expressing sth., etc.) [presentation](https://docs.google.com/presentation/d/1AuF7fEs1KPzwp6Zb-Fcjt6WUAetJgCytkxa_XLbe4Fg/edit#slide=id.gbdc087f189_0_143)
 
 ## on the way
-- [2021/02/16] Sharing some interesting expressions in English (idiom, slang, different and native way of expressing sth., etc.)
+- [2021/02/23] How reinforcement learning play games
 
 ## topic list:
 - Experience on learn guita in 10 days
