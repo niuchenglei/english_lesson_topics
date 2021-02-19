@@ -24,7 +24,6 @@
 - Experience on learn guita in 10 days
 - Talk books: the story of romans, three body problem, Do you think God will roll the dice
 - Favorite sport, marathon(42km)
-- How reinforcement learning play games
 - How to fly a FA-18C hornet plane (game)
 - How quantum computer works
 - How machine computer works
