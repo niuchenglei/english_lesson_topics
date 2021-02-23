@@ -29,6 +29,7 @@
 - How quantum computer works
 - How machine computer works
 - Encrypted currency (bitcoin, ethercoin, libra)
+- Something about Chaos
 
 - Economics related: are we really reational decision makers? (behavioral economics)
 - Pricing models (not able to talk about it now)
