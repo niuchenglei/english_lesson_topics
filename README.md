@@ -16,9 +16,10 @@
   ```
 - [2021/02/09] Mathematics about blockchain ([presentation](https://docs.google.com/presentation/d/1fagu-n-h_4Xyeq9Yc_vMScF602HaPahcW7xpH3EYF7Q/edit#slide=id.gba35549b36_0_31))
 - [2021/02/19] Sharing some interesting expressions in English (idiom, slang, different and native way of expressing sth., etc.) [presentation](https://docs.google.com/presentation/d/1AuF7fEs1KPzwp6Zb-Fcjt6WUAetJgCytkxa_XLbe4Fg/edit#slide=id.gbdc087f189_0_143)
+- [2021/02/23] How reinforcement learning play games [ppt](https://docs.google.com/presentation/d/1Bnk5pexR6vRTgYwhw9FMFkLqkd37tr-uAAxmObugs3U/edit#slide=id.gba35549b36_0_0)
 
 ## on the way
-- [2021/02/23] How reinforcement learning play games
+- [2021/03/02] Language learning: How I obtained the British English accent?
 
 ## topic list:
 - Experience on learn guita in 10 days
@@ -29,15 +30,8 @@
 - How machine computer works
 - Encrypted currency (bitcoin, ethercoin, libra)
 
-- Sharing some interesting expressions in English (idiom, slang, different and native way of expressing sth., etc.)
 - Economics related: are we really reational decision makers? (behavioral economics)
 - Pricing models (not able to talk about it now)
-- Introducing one of my latest course project: systematic review on the effectiveness of tele-monitoring
 - Social sceience related: How are words influencing our decision? (framing effects)
-- Language learning: How I obtained the British English accent?
 
-```
-import numpy as np
-println("hello world")
-```
 
