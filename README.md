@@ -19,9 +19,10 @@
 - [2021/02/23] How reinforcement learning play games [ppt](https://docs.google.com/presentation/d/1Bnk5pexR6vRTgYwhw9FMFkLqkd37tr-uAAxmObugs3U/edit#slide=id.gba35549b36_0_0)
 - [2021/03/02] Language learning: How I obtained the British English accent?
 - [2021/03/09] Experience on learn guita in 10 days, Favorite sport, marathon(42km)
+- [2021/03/12] Sharing books: recommend books or stories, artical and paper also welcomed
 
 ## on the way
-- [2021/03/12] Sharing books: recommend books or stories, artical and paper also welcomed
+- [2021/03/19] How quantum computer works
 
 ## topic list:
 - Talk books: the story of romans, three body problem, Do you think God will roll the dice
