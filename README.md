@@ -20,9 +20,10 @@
 - [2021/03/02] Language learning: How I obtained the British English accent?
 - [2021/03/09] Experience on learn guita in 10 days, Favorite sport, marathon(42km)
 - [2021/03/12] Sharing books: recommend books or stories, artical and paper also welcomed
+- [2021/03/19] How quantum computer works
 
 ## on the way
-- [2021/03/19] How quantum computer works
+- [2021/04/02] How to fly a DCS/FA-18C hornet plane (game), xplane11
 
 ## topic list:
 - Talk books: the story of romans, three body problem, Do you think God will roll the dice
