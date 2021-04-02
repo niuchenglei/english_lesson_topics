@@ -21,17 +21,18 @@
 - [2021/03/09] Experience on learn guita in 10 days, Favorite sport, marathon(42km)
 - [2021/03/12] Sharing books: recommend books or stories, artical and paper also welcomed
 - [2021/03/26] How quantum computer works
+- [2021/04/02] How to fly a DCS/FA-18C hornet plane (game), xplane11
 
 ## on the way
-- [2021/04/02] How to fly a DCS/FA-18C hornet plane (game), xplane11
+- [2021/04/09] The skills that we give it up while growing
 
 ## topic list:
 - Talk books: the story of romans, three body problem, Do you think God will roll the dice
-- How to fly a FA-18C hornet plane (game)
-- How quantum computer works
 - How machine computer works
 - Encrypted currency (bitcoin, ethercoin, libra)
 - Something about Chaos
+
+- The skills that we give it up while growing
 
 - Economics related: are we really reational decision makers? (behavioral economics)
 - Pricing models (not able to talk about it now)
